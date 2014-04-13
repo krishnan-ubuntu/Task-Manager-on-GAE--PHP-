@@ -14,7 +14,7 @@ How the tool works?:
  - Assign tasks to your team members
  - View your team members' task list (not built yet)
  - View their progress and help them  (not built yet)
- - Add description to a task and track / record its progress (developing as the moment)
+ - Add description to a task and track / record its progress (developing at the moment, feel free to chip in)
 
 ### Contributions
 
