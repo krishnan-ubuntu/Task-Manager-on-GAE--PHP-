@@ -1,0 +1,8 @@
+application: phpsdkkrish
+version: 1
+runtime: php
+api_version: 1
+
+handlers:
+- url: /.*
+  script: task_list.php
