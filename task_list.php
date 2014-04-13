@@ -29,8 +29,8 @@ echo $new_task_owner;
 function open_database_connection() //Opens database connection
 	{
 		$dbhost = 'localhost';
-		$dbuser = 'jeffrey';
-		$dbpass = 'mypass';
+		$dbuser = '******';
+		$dbpass = '******';
 		$db = 'doeverything';
 		$db_con = mysql_connect($dbhost, $dbuser, $dbpass, $db);
 		mysql_select_db('doeverything');
