@@ -552,9 +552,6 @@ function send_email() //not working as of now.
 						var buttonElements  = document.getElementsByTagName('button');
 						var butt_len = buttonElements.length;
 						
-						//document.getElementsByTagName('button').style.visibility = 'visible';
-						//document.getElementById('togglee').style.visibility = 'visible';
-						
 						for (var i = 0; i<input_len; i++) 
 						{
 							
